@@ -1,0 +1,44 @@
+{
+    "folders": [
+        {
+            "unread_count": null,
+            "custom": 0,
+            "default_tag": 0,
+            "type": "trash",
+            "name": "Trash",
+            "id": 2
+        },
+        {
+            "unread_count": 0,
+            "custom": 0,
+            "default_tag": 1,
+            "type": "main",
+            "name": "My Scans",
+            "id": 3
+        },
+        {
+            "unread_count": 0,
+            "custom": 1,
+            "default_tag": 0,
+            "type": "custom",
+            "name": "F1",
+            "id": 7
+        },
+        {
+            "unread_count": 0,
+            "custom": 1,
+            "default_tag": 0,
+            "type": "custom",
+            "name": "F2",
+            "id": 8
+        },
+        {
+            "unread_count": 1,
+            "custom": 1,
+            "default_tag": 0,
+            "type": "custom",
+            "name": "F3",
+            "id": 9
+        }
+    ]
+}
